@@ -41,3 +41,7 @@ frontend/twolame
 
 tests/*.mp2
 tests/*.raw
+
+.vs/
+*.opendb
+*.sdf
